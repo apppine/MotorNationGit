@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MotorNation</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="connect_tv">OR CONNECT WITH</string>
+    <string name="dont_have_acc">Don\'t have an account? |</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="check">I accept Terms and Conditions of MotorNation</string>
+    <string name="reminder">Remember Me</string>
+    <string name="forgot">Forgot Password?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
