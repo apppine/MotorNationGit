@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#C9AB51</color>
+    <color name="black">#000000</color>
+    <color name="yellow_light">#FFEDB3</color>
+    <color name="yellow_dark">#C9AB51</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#D0D0D0</color>
+    <color name="unclick">#fceab1</color>
+    <color name="click">#ccad52</color>
+    <color name="gray_light">#D0D0D0</color>
+    <color name="gray_dark">#a19f9f</color>
+</resources>

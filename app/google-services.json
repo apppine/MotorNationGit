@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "693784426352",
+    "firebase_url": "https://motornation-78700.firebaseio.com",
+    "project_id": "motornation-78700",
+    "storage_bucket": "motornation-78700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693784426352:android:4b52c2b40c63d92a",
+        "android_client_info": {
+          "package_name": "com.samsson.motornation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693784426352-tvp8quq9vulhj0n2t325vruea17h7dvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samsson.motornation",
+            "certificate_hash": "594a17589b96f41335e00da4827d31ab6588e5a7"
+          }
+        },
+        {
+          "client_id": "693784426352-bc9o8dln2ijrhf6c25t6je6emjidie0i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "693784426352-bc9o8dln2ijrhf6c25t6je6emjidie0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrG1zZmv2kKAyvMysVUyULO098wn2A77w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693784426352-bc9o8dln2ijrhf6c25t6je6emjidie0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

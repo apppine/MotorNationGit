@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:background="@color/white"
+    android:layout_height="80dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="3dp"
+        android:background="@color/yellow_dark"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="1dp"
+        android:background="@color/white"
+        android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="3dp"
+        android:layout_height="match_parent">
+<!--<RelativeLayout
+    android:layout_width="70dp"
+    android:id="@+id/layout"
+    android:layout_centerInParent="true"
+    android:layout_margin="5dp"
+    android:layout_height="50dp">-->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="40dp"
+        android:src="@drawable/male1"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/image"
+        android:layout_height="40dp" />
+    <ImageView
+        android:id="@+id/add_rqst"
+        android:layout_width="10dp"
+        android:src="@drawable/user_add"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_height="10dp" />
+<!--</RelativeLayout>-->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Mariya Leo"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textSize="8sp"
+        android:layout_below="@+id/image"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content" />
+    </RelativeLayout>
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
